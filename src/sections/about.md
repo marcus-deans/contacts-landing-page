@@ -1,6 +1,6 @@
 ---
-title: AWE.SOME Heading
+title: What we are
 type: about
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Vivamus vitae erat vel tellus condimentum consectetur.
+We make building relationships easy. Easily add new contacts to your network, gain deep insighs, and build more profound interactions.

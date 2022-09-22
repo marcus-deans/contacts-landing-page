@@ -1,6 +1,6 @@
----
-title: Registration
+**---
+title: Waitlist
 type: register
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi.
+Join our waitlist for first-access
